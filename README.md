@@ -1,3 +1,7 @@
+
+**NB:** This repo is not maintained. It exists only as a means of adding UN Framework support to the plugin for a pull request.
+
+
 Parse.Push Plugin
 ==============================
 
